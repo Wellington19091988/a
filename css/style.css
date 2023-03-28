@@ -1,0 +1,212 @@
+/*---INICIO DA TAG---*/
+body {  
+    font-family: 'Roboto';          
+}
+
+h1 {
+    font-family: 'Roboto';
+    color: #fff;
+    font-size: 2.5rem; 
+    padding: 10px 10px;  
+}
+
+h2,h3 {
+    font-family: 'Roboto';
+    color: #fff;
+    font-size: 2.5rem;
+    line-height: 23px;
+    font-weight: 400; 
+    text-align: center;
+}
+
+
+h4 {
+    font-family: 'Roboto';
+    color: #3f189b;
+}
+
+p {
+    font-family: 'Roboto';
+    color: #969696;   
+}
+
+/*---FIM DA TAG---*/
+
+#title {
+    background-color: #3f189b;
+    color: #fff;
+}
+
+.container-fluid {
+    padding: 2% 3%;  
+}
+
+.titulo-principal {
+    font-family: 'Roboto';
+    color: #fff;
+    font-size: 2.5rem;
+    line-height: 1.5;
+    font-weight: 400; 
+    padding: 0 70px;
+}
+
+
+
+.texto-principal {
+    font-family: 'Roboto';
+    color: #fff;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 2rem;
+    padding: 0 70px;    
+}
+
+.navbar-brand {
+    font-family: 'Roboto';
+    font-size: 2.5rem;
+    font-weight: 400;     
+}
+
+
+/*navigation bar */
+.navbar {
+    padding: 0 0 5.5rem;
+}
+
+.nav-item {   
+   margin-left: 109%;
+    
+ }
+
+.nav-link {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #f2f2fa;    
+}
+
+#navbartogglerDemo01 {
+    padding: 0 500px;  
+}
+
+/*--Botão header */
+.download-button {
+    font-size: 20px;
+    width: 20%;
+    margin: 6% 5% 5% 7%;
+    border-radius: 7px;
+    
+}
+
+/* TITLE IMAGE */
+.title-image {
+    width: 63%;
+    height: 90%;
+    border-radius: 5%;  
+    margin: -5% 22% 2%;  
+    
+}
+
+#features {
+    padding: 5% 5%; 
+    background-color: #f2f2fa; 
+}
+
+.feature-image {
+    padding: 0% 44.5% 5%;
+}
+
+.feature-titulo {
+    font-family: 'Roboto-bold';
+    color: #3f189b; 
+}
+
+.feature-texto {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 15px;
+    text-align: center;
+    padding: 30px;
+    color: #000;
+}
+
+/* PRICING SECTION */
+#pricing {
+    background: #f5f5f5;
+    padding: 30px 120px;
+    
+}
+
+.pricing-titulo {
+    font-family: 'Roboto-bold';
+    color: #3f189b;
+    font-size: 2.5rem;
+    line-height: 1.5;
+    font-weight: 400;  
+    padding: 12px;
+}
+
+.pricing-texto {
+    font-family: 'Roboto';
+    color: #000;
+    margin: 20px;
+    text-align: center;
+}
+
+.card-pricing {
+    background: #f5f5f5;
+    padding: 2.5%;
+    border-radius: 6px;
+}
+
+.card-title {
+    color:  #3f189b;
+ }
+
+
+.btn-primary {
+    background: #3f189b;      
+}
+
+.btn-primary:hover {
+    background-color: #3f189b; 
+    border-color: #3f189b;
+}
+
+.card-2 {
+    background: #e1e1e6;
+    padding: 2.5%;
+}
+
+.btn-card2:hover {
+    background-color: #3f189b;
+    border-color: #3f189b;
+}
+ /*--FIM PRICING SECTION--*/
+
+ /* CTA Section */ 
+
+.footer {
+    background-color: #3f189b;
+    color: #fff;   
+}
+
+.text-white {
+    text-decoration: none; 
+    
+}
+
+/* SITE RESPONSIVO */
+
+@media (max-width: 1028px) {
+
+    #title {
+        text-align: center;
+    }
+
+    .title-image {
+        position: static;
+    }   
+}

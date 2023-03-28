@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72" fill="none">
+  <path d="M36 22V30" stroke="#017737" stroke-width="2"></path>
+  <path d="M36 42L36 50" stroke="#017737" stroke-width="2"></path>
+  <path d="M30 36H26H22" stroke="#017737" stroke-width="2"></path>
+  <path d="M50.0001 36H46.0001H42.0001" stroke="#017737" stroke-width="2"></path>
+  <circle cx="36" cy="15" r="7" stroke="#017737" stroke-width="2"></circle>
+  <circle cx="15" cy="36" r="7" transform="rotate(-90 15 36)" stroke="#017737" stroke-width="2"></circle>
+  <circle cx="36" cy="36" r="6" transform="rotate(-90 36 36)" stroke="#017737" stroke-width="2"></circle>
+  <circle cx="36.0001" cy="57" r="7" stroke="#017737" stroke-width="2"></circle>
+  <circle cx="57.0001" cy="36" r="7" transform="rotate(-90 57.0001 36)" stroke="#017737" stroke-width="2"></circle>
+</svg>
